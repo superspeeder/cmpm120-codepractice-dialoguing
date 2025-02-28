@@ -6,8 +6,14 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker": "minerva",
+			"dialog": "OK but low key I'm not your muse lol",
+			"newSpeaker": "true"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker": "true"
 		},
 		{	
 			"speaker" : "homer",
@@ -54,6 +60,15 @@
 			"speaker" : "minerva",
 			"dialog" : "If, then, the gods now mean that Ulysses should get home, we should first send Mercury to the Ogygian island to tell Calypso that we have made up our minds and that he is to return.",
 			"newSpeaker" : "true"
+		},
+		{
+			"speaker": "crab",
+			"dialog": "*Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap* *Snap*",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "crab",
+			"dialog": "(I am the future)"
 		}
 	]
 ]
